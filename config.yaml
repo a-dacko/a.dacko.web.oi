@@ -1,0 +1,106 @@
+baseURL: "/"
+languageCode: en
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+defaultContentLanguage: en
+title: Home
+theme: KeepIt
+paginate: 12
+enableEmoji: yes
+enableRobotsTXT: yes
+googleAnalytics: ''
+disqusShortname: Aleksandra Dacko
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+blackfriday:
+  hrefTargetBlank: yes
+  nofollowLinks: yes
+  noreferrerLinks: yes
+Permalinks:
+  posts: /:year/:filename/
+menu:
+  main:
+    - name: About
+      url: /about
+      weight: 1
+    - name: CV
+      url: /cv.pdf
+      weight: 3
+
+    
+params:
+  author: Aleksandra Dacko
+  avatar: /images/me/me.jpg
+  baidu_verification: ''
+  bing_verification: ''
+  cdn_url: ''
+  dateFormatToUse: ''
+  description: ''
+  gitalk:
+    clientId: ''
+    clientSecret: ''
+    owner: ''
+    repo: ''
+  gitment:
+    clientId: ''
+    clientSecret: ''
+    owner: ''
+    repo: ''
+  google_verification: ''
+  gravatar: {}
+  home_mode: ''
+  image:
+    height: 600
+    url: images/me.png
+    width: 800
+  keywords: ''
+  license: Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/"
+    target="_blank">CC BY-NC 4.0</a>
+  logo:
+    height: 40
+    url: images/me.png
+    width: 127
+  pinterest_verification: ''
+  publisher:
+    logo:
+      height: 40
+      url: logo.png
+      width: 127
+    name: Fastbyte01
+  share:
+    Facebook: yes
+    Linkedin: yes
+    Twitter: yes
+    copyright: This work is licensed under a Creative Commons Attribution-NonCommercial
+      4.0 International License.
+  since: 2012
+  social:
+    Facebook: no
+    GitHub: a-dacko
+    Linkedin: a-dacko
+    Twitter: xxxx
+  socialShare: yes
+  subtitle: Aleksandra Dacko
+  subtitle2: MSc. Methodology and Statistics at Utrecht University
+  utterances:
+    owner: ''
+    repo: ''
+  valine:
+    appId: your appId
+    appKey: your appKey
+    avatar: images/me.png
+    enable: no
+    language: en
+    notify: no
+    placeholder: Hello Hello
+    verify: no
+    visitor: yes
+  yandex_verification: ''
+author:
+  name: Aleksandra Dacko
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

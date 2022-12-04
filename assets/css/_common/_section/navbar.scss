@@ -1,0 +1,31 @@
+  
+
+
+  .header-logo a{
+    font-size: 1.2em;
+    padding: 0 ;
+
+    i{
+      line-height: 3em;
+    }
+  }
+  
+  
+ .navbar .menu a {
+    font-size: 1.2em;
+    padding: 0 10px;
+  }
+
+  .navbar .menu .active{
+      font-weight: 900;
+      color: $light-navbar-active-color;
+
+      .dark-theme &{
+        color: $dark-navbar-active-color;
+      }
+  }
+  
+  .navbar-header a:hover, .navbar .menu a:hover {
+    
+    background-color: transparent;
+  }
