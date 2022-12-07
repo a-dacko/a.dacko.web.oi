@@ -31,7 +31,7 @@ menu:
     
 params:
   author: Aleksandra Dacko
-  avatar: "/images/me/me.jpg""
+  avatar: images/me/me.jpg
   baidu_verification: ''
   bing_verification: ''
   cdn_url: ''
