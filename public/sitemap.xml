@@ -30,35 +30,7 @@
     </url>
   
     <url>
-      <loc>https://a-dacko.github.io/a.dacko.web.oi/about/about/</loc>
-      
-      <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://a-dacko.github.io/a.dacko.web.oi/about/</loc>
-      
-      <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://a-dacko.github.io/a.dacko.web.oi/</loc>
       
       <lastmod>2022-12-04T00:00:00+00:00</lastmod>
       
@@ -87,6 +59,20 @@
   
     <url>
       <loc>https://a-dacko.github.io/a.dacko.web.oi/2020/2020-12-01-r-rmarkdown/</loc>
+      
+      <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/</loc>
       
       <lastmod>2020-12-01T21:13:14-05:00</lastmod>
       
