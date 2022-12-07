@@ -2,7 +2,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>/2014/creating-a-new-theme/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/2014/creating-a-new-theme/</loc>
       
       <lastmod>2014-09-28T00:00:00+00:00</lastmod>
       
@@ -16,7 +16,7 @@
     </url>
   
     <url>
-      <loc>/2014/migrate-from-jekyll/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/2014/migrate-from-jekyll/</loc>
       
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
       
@@ -30,7 +30,7 @@
     </url>
   
     <url>
-      <loc>/about/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/about/</loc>
       
       <lastmod>2022-12-04T00:00:00+00:00</lastmod>
       
@@ -44,7 +44,7 @@
     </url>
   
     <url>
-      <loc>/categories/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/categories/</loc>
       
       <lastmod>2020-12-01T21:13:14-05:00</lastmod>
       
@@ -58,7 +58,7 @@
     </url>
   
     <url>
-      <loc>/2020/2020-12-01-r-rmarkdown/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/2020/2020-12-01-r-rmarkdown/</loc>
       
       <lastmod>2020-12-01T21:13:14-05:00</lastmod>
       
@@ -72,7 +72,7 @@
     </url>
   
     <url>
-      <loc>/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/</loc>
       
       <lastmod>2020-12-01T21:13:14-05:00</lastmod>
       
@@ -86,7 +86,7 @@
     </url>
   
     <url>
-      <loc>/tags/plot/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/tags/plot/</loc>
       
       <lastmod>2020-12-01T21:13:14-05:00</lastmod>
       
@@ -100,7 +100,7 @@
     </url>
   
     <url>
-      <loc>/posts/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/posts/</loc>
       
       <lastmod>2020-12-01T21:13:14-05:00</lastmod>
       
@@ -114,7 +114,7 @@
     </url>
   
     <url>
-      <loc>/categories/r/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/categories/r/</loc>
       
       <lastmod>2020-12-01T21:13:14-05:00</lastmod>
       
@@ -128,7 +128,7 @@
     </url>
   
     <url>
-      <loc>/tags/r-markdown/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/tags/r-markdown/</loc>
       
       <lastmod>2020-12-01T21:13:14-05:00</lastmod>
       
@@ -142,7 +142,7 @@
     </url>
   
     <url>
-      <loc>/tags/regression/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/tags/regression/</loc>
       
       <lastmod>2020-12-01T21:13:14-05:00</lastmod>
       
@@ -156,7 +156,7 @@
     </url>
   
     <url>
-      <loc>/tags/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/tags/</loc>
       
       <lastmod>2020-12-01T21:13:14-05:00</lastmod>
       
@@ -170,7 +170,7 @@
     </url>
   
     <url>
-      <loc>/2014/goisforlovers/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/2014/goisforlovers/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -184,7 +184,7 @@
     </url>
   
     <url>
-      <loc>/tags/development/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/tags/development/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -198,7 +198,7 @@
     </url>
   
     <url>
-      <loc>/categories/development/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/categories/development/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -212,7 +212,7 @@
     </url>
   
     <url>
-      <loc>/2014/hugoisforlovers/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/2014/hugoisforlovers/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -226,7 +226,7 @@
     </url>
   
     <url>
-      <loc>/tags/go/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/tags/go/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -240,7 +240,7 @@
     </url>
   
     <url>
-      <loc>/categories/go/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/categories/go/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -254,7 +254,7 @@
     </url>
   
     <url>
-      <loc>/tags/golang/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/tags/golang/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -268,7 +268,7 @@
     </url>
   
     <url>
-      <loc>/categories/golang/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/categories/golang/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -282,7 +282,7 @@
     </url>
   
     <url>
-      <loc>/tags/hugo/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/tags/hugo/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -296,7 +296,7 @@
     </url>
   
     <url>
-      <loc>/2014/goisforlovers.fr/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/2014/goisforlovers.fr/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -310,7 +310,7 @@
     </url>
   
     <url>
-      <loc>/tags/templates/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/tags/templates/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -324,7 +324,7 @@
     </url>
   
     <url>
-      <loc>/tags/themes/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/tags/themes/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -338,7 +338,7 @@
     </url>
   
     <url>
-      <loc>/projects/migrate-from-jekyll/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/projects/migrate-from-jekyll/</loc>
       
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
       
@@ -352,7 +352,7 @@
     </url>
   
     <url>
-      <loc>/projects/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/projects/</loc>
       
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
       
@@ -366,7 +366,7 @@
     </url>
   
     <url>
-      <loc>/categories/uncategorized/</loc>
+      <loc>https://a-dacko.github.io/a.dacko.web.oi/categories/uncategorized/</loc>
       
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
       

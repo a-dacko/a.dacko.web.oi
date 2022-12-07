@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: /sitemap.xml
+Sitemap: https://a-dacko.github.io/a.dacko.web.oi/sitemap.xml
