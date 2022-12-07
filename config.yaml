@@ -22,7 +22,7 @@ Permalinks:
 menu:
   main:
     - name: About
-      url: /about
+      url: /about.md
       weight: 1
     - name: CV
       url: /cv.pdf
@@ -79,7 +79,7 @@ params:
     Facebook: no
     GitHub: a-dacko
     Linkedin: a-dacko
-    Twitter: xxxx
+    Twitter: no
   socialShare: yes
   subtitle: Aleksandra Dacko
   subtitle2: MSc. Methodology and Statistics at Utrecht University
