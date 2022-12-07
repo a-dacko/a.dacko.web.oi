@@ -22,7 +22,7 @@ Permalinks:
 menu:
   main:
     - name: About
-      url: /about.md
+      url: about/about.md
       weight: 1
     - name: CV
       url: /cv.pdf
