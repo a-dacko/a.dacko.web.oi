@@ -65,7 +65,7 @@ params:
   publisher:
     logo:
       height: 40
-      url: logo.png
+      url: ""
       width: 127
     name: Fastbyte01
   share:
