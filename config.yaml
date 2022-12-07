@@ -1,5 +1,6 @@
 baseURL: "https://a-dacko.github.io/a.dacko.web.oi/"
 languageCode: en
+relativeURLs: true
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 defaultContentLanguage: en
 title: Home
