@@ -25,7 +25,7 @@ menu:
       url: /about
       weight: 1
     - name: CV
-      url: https://github.com/a-dacko/a.dacko.web.oi/blob/main/content/cv.pdf
+      url: /cv.pdf
       weight: 3
 
     
